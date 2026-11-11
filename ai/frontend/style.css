@@ -1,0 +1,13 @@
+body { margin: 0; background: #f3f7f7; color: #173b3b; font: 16px system-ui, sans-serif; }
+main { max-width: 760px; margin: 4rem auto; padding: 1.5rem; }
+h1 { color: #0c8b7e; }
+.notice { background: #fff3cd; padding: .8rem; border-radius: .5rem; }
+#messages { display: grid; gap: .75rem; margin: 1.5rem 0; }
+article { white-space: pre-wrap; padding: 1rem; border-radius: .75rem; }
+.user { background: #d7eee9; justify-self: end; }
+.assistant { background: white; box-shadow: 0 1px 5px #ccd; }
+form { display: flex; gap: .5rem; }
+input { flex: 1; padding: .8rem; border: 1px solid #aac; border-radius: .4rem; }
+button { padding: .7rem 1rem; border: 0; border-radius: .4rem; background: #0c8b7e; color: white; cursor: pointer; }
+.suggestions { display: flex; flex-wrap: wrap; gap: .5rem; }
+

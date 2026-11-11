@@ -1,0 +1,2 @@
+The existing PHP application is the authority for authentication and appointment creation. The AI service can search approved knowledge and read doctor availability, but it never writes appointments or patient records.
+

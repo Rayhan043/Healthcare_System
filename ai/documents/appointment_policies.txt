@@ -1,0 +1,2 @@
+Appointments are subject to doctor availability. A requested appointment is saved as pending until clinic staff confirm it. Patients may cancel from My Appointments when cancellation is available. The system prevents active double booking of the same doctor, date and time.
+

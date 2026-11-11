@@ -1,0 +1,2 @@
+CareSlot patients can register, sign in, browse doctors, select available dates and request appointments. Patients can view their appointment references from My Appointments. Contact the clinic for questions not answered here.
+
