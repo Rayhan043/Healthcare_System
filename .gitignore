@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+
+# Local environment overrides
+.env
+.env.*
+!.env.example
+
+# Runtime and editor artifacts
+*.log
+.vscode/
+/.phpunit.result.cache
